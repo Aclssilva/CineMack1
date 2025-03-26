@@ -1,7 +1,3 @@
-#Ana Clara Soares Silva RA: 10721867
-#Giuliana Mamani Copa RA: 10435521
-
-
 Assento1 = 50  # Quantidade de assentos Filme 1/Sessão 1
 Assento12=50  # Quantidade de assentos Filme 1/Sessão 2
 Assento2 = 40  # Quantidade de assentos Filme 2/Sessão 1
